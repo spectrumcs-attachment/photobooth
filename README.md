@@ -1,4 +1,4 @@
-# I/O Photo Booth
+  # I/O Photo Booth
 
 [![Photo Booth Header][logo]][photo_booth_link]
 
