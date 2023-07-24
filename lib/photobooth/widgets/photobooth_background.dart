@@ -10,7 +10,7 @@ class PhotoboothBackground extends StatelessWidget {
       fit: StackFit.expand,
       children: [
         Image.asset(
-          'assets/backgrounds/photobooth_background.jpg',
+          'assets/backgrounds/photobooth_bk2.jpg',
           repeat: ImageRepeat.repeat,
           filterQuality: FilterQuality.high,
         ),
