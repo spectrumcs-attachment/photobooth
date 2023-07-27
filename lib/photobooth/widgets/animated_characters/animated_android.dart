@@ -9,7 +9,7 @@ class AnimatedAndroid extends AnimatedSprite {
             asset: 'android_spritesheet.png',
             size: Size(450, 658),
             frames: 25,
-            stepTime: 2 / 25,
+            stepTime: 5 / 25,
           ),
         );
 }

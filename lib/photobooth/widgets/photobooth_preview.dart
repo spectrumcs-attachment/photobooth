@@ -59,7 +59,7 @@ class PhotoboothPreview extends StatelessWidget {
       ),
       CharacterIconButton(
         key: const Key('photoboothView_android_characterIconButton'),
-        icon: const AssetImage('assets/icons/android_icon.png'),
+        icon: const AssetImage('assets/images/santa_claus.png'),
         label: l10n.androidButtonLabelText,
         isSelected: state.isAndroidSelected,
         onPressed: () {
