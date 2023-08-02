@@ -6,10 +6,9 @@ class AnimatedAndroid extends AnimatedSprite {
       : super(
           loadingIndicatorColor: PhotoboothColors.green,
           sprites: const Sprites(
-            asset: 'android_spritesheet.png',
-            size: Size(450, 658),
-            frames: 25,
-            stepTime: 5 / 25,
+            asset: 'gam.png',
+            size: Size(370, 480),
+            frames: 8,
           ),
         );
 }

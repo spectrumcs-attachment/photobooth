@@ -41,13 +41,13 @@ void main() async {
 
   unawaited(
     Future.wait([
-      Flame.images.load('android_spritesheet.png'),
+      Flame.images.load('gam.png'),
       Flame.images.load('dash_spritesheet.png'),
       Flame.images.load('dino_spritesheet.png'),
-      Flame.images.load('sparky_spritesheet.png'),
       Flame.images.load('photo_frame_spritesheet_landscape.jpg'),
       Flame.images.load('photo_frame_spritesheet_portrait.png'),
       Flame.images.load('photo_indicator_spritesheet.png'),
+      Flame.images.load('game.gif'),
     ]),
   );
 
