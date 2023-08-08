@@ -43,7 +43,7 @@ class PhotoboothPreview extends StatelessWidget {
       ),
       CharacterIconButton(
         key: const Key('photoboothView_sparky_characterIconButton'),
-        icon: const AssetImage('assets/icons/sparky_icon.png'),
+        icon: const AssetImage('assets/images/monster.gif'),
         label: l10n.sparkyButtonLabelText,
         isSelected: state.isSparkySelected,
         onPressed: () {

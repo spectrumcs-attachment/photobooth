@@ -6,10 +6,9 @@ class AnimatedSparky extends AnimatedSprite {
       : super(
           loadingIndicatorColor: PhotoboothColors.red,
           sprites: const Sprites(
-            asset: 'ninja_spritesheet.png',
-            size: Size(530, 58),
-            frames: 10,
-            stepTime: 3 / 10,
+            asset: 'monster.png',
+            size: Size(290, 480),
+            frames: 7,
           ),
         );
 }

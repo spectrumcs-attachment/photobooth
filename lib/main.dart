@@ -42,6 +42,8 @@ void main() async {
   unawaited(
     Future.wait([
       Flame.images.load('gam.png'),
+      Flame.images.load('monster.gif'),
+      Flame.images.load('monster.png'),
       Flame.images.load('dash_spritesheet.png'),
       Flame.images.load('dino_spritesheet.png'),
       Flame.images.load('photo_frame_spritesheet_landscape.jpg'),
