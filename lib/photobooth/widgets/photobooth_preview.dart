@@ -43,18 +43,18 @@ class PhotoboothPreview extends StatelessWidget {
       ),
       CharacterIconButton(
         key: const Key('photoboothView_sparky_characterIconButton'),
-        icon: const AssetImage('assets/icons/sparky_icon.png'),
+        icon: const AssetImage('assets/icons/monokuma_icon.png'),
         label: l10n.sparkyButtonLabelText,
         isSelected: state.isSparkySelected,
         onPressed: () {
           trackEvent(
             category: 'button',
             action: 'click-add-friend',
-            label: 'add-sparky-friend',
+            label: 'add-mono-friend',
           );
           context
               .read<PhotoboothBloc>()
-              .add(const PhotoCharacterToggled(character: Assets.sparky));
+              .add(const PhotoCharacterToggled(character: Assets.mono));
         },
       ),
       CharacterIconButton(
@@ -166,8 +166,8 @@ AnimatedSprite? _getAnimatedSprite(String name) {
       return const AnimatedDash();
     case 'dino':
       return const AnimatedDino();
-    case 'sparky':
-      return const AnimatedSparky();
+    case 'mono':
+      return const AnimatedMonokuma();
     default:
       return null;
   }

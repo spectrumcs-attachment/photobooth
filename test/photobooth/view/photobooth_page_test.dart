@@ -509,7 +509,7 @@ void main() {
         ),
         findsOneWidget,
       );
-      expect(find.byType(AnimatedSparky), findsOneWidget);
+      expect(find.byType(AnimatedMonokuma), findsOneWidget);
     });
 
     testWidgets('renders only dino when only dino is selected', (tester) async {
@@ -593,7 +593,7 @@ void main() {
       expect(find.byType(AnimatedAndroid), findsOneWidget);
       expect(find.byType(AnimatedDash), findsOneWidget);
       expect(find.byType(AnimatedDino), findsOneWidget);
-      expect(find.byType(AnimatedSparky), findsOneWidget);
+      expect(find.byType(AnimatedMonokuma), findsOneWidget);
     });
 
     testWidgets(

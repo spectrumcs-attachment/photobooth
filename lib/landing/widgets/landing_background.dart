@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:photobooth_ui/photobooth_ui.dart';
+import 'package:animated_glitch/animated_glitch.dart';
 
 class LandingBackground extends StatelessWidget {
   const LandingBackground({super.key});
@@ -13,8 +14,8 @@ class LandingBackground extends StatelessWidget {
           begin: Alignment.topCenter,
           end: Alignment.bottomCenter,
           colors: [
-            PhotoboothColors.gray,
-            PhotoboothColors.white,
+            PhotoboothColors.black,
+            PhotoboothColors.blue,
           ],
         ),
       ),

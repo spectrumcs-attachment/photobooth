@@ -23,9 +23,9 @@ void main() {
       });
     });
 
-    group('AnimatedSparky', () {
+    group('AnimatedMonokuma', () {
       test('is an AnimatedSprite', () {
-        expect(AnimatedSparky(), isA<AnimatedSprite>());
+        expect(AnimatedMonokuma(), isA<AnimatedSprite>());
       });
     });
   });

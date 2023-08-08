@@ -1,18 +1,18 @@
 {
     "@@locale": "en",
-    "landingPageHeading": "Welcome to the I\u2215O Photo Booth",
+    "landingPageHeading": "Welcome to Zenzo's Photo Booth",
     "@landingPageHeading": {
         "description": "Heading shown on the landing page."
     },
-    "landingPageSubheading": "Take a photo and share it with the community!",
+    "landingPageSubheading": "Take a photo and share it with ME I'll sell them!",
     "@landingPageSubheading": {
         "description": "Subheading shown on the landing page."
     },
-    "landingPageTakePhotoButtonText": "Get started",
+    "landingPageTakePhotoButtonText": "Let's get freaky",
     "@landingPageTakePhotoButtonText": {
         "description": "Button text shown on the landing page which navigates to the photo booth."
     },
-    "footerMadeWithText": "Made with ",
+    "footerMadeWithText": "Made with blood, sweat and dedication",
     "@footerMadeWithText": {
         "description": "Text shown on the footer which mentions technologies used to build the app."
     },
@@ -52,11 +52,11 @@
     "@sharePageSubheading": {
         "description": "Subheading shown on the share page."
     },
-    "sharePageSuccessHeading": "Photo Shared!",
+    "sharePageSuccessHeading": "Photo Sold!",
     "@sharePageSuccessHeading": {
         "description": "Heading shown on the share page after successful share."
     },
-    "sharePageSuccessSubheading": "Thanks for using our Flutter web app! Your photo has been published at this unique URL",
+    "sharePageSuccessSubheading": "Thanks for using my web app! Your photo has been published at this unique URL",
     "@sharePageSuccessSubheading": {
         "description": "Subheading shown on the share page after successful share."
     },
@@ -68,7 +68,7 @@
     "@sharePageSuccessCaption2": {
         "description": "Second part of the caption shown at the bottom of the share page after successful share."
     },
-    "sharePageSuccessCaption3": " and be sure to include your unique URL in your request.",
+    "sharePageSuccessCaption3": " and be sure to include your password in your request.",
     "@sharePageSuccessCaption3": {
         "description": "Third part of the caption shown at the bottom of the share page after successful share."
     },
@@ -84,7 +84,7 @@
     "@sharePageDownloadButtonText": {
         "description": "Button text shown on the share page which downloads the taken photo."
     },
-    "socialMediaShareLinkText": "Just took a selfie at the #IOPhotoBooth. See you at #GoogleIO!",
+    "socialMediaShareLinkText": "Just took a selfie at the #IOPhotoBooth. See you at X.com!",
     "@socialMediaShareLinkText": {
         "description": "Text that is put into the social media share URL link."
     },

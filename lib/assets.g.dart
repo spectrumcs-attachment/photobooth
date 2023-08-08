@@ -19,9 +19,9 @@ class Assets {
     path: 'assets/images/dino.png',
     size: Size(648, 757),
   );
-  static const sparky = Asset(
+  static const mono = Asset(
     name: 'sparky',
-    path: 'assets/images/sparky.png',
+    path: 'assets/images/monokuma.png',
     size: Size(730, 588),
   );
   static const googleProps = {

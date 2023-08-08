@@ -29,6 +29,7 @@ dependencies:
     path: packages/image_compositor
   intl: ^0.18.0
   just_audio: ^0.9.31
+  ordered_set: 5.0.1
   photobooth_ui:
     path: packages/photobooth_ui
   photos_repository:
@@ -38,6 +39,7 @@ dependencies:
   rxdart: ^0.27.7
   uuid: ^3.0.7
   very_good_analysis: ^4.0.0+1
+  animated_glitch: ^2.0.0+2
 
 dev_dependencies:
   bloc_test: ^9.1.0
