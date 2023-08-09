@@ -29,6 +29,7 @@ dependencies:
     path: packages/image_compositor
   intl: ^0.18.0
   just_audio: ^0.9.31
+  ordered_set: 5.0.1
   photobooth_ui:
     path: packages/photobooth_ui
   photos_repository:

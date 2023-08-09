@@ -7,9 +7,9 @@ class AnimatedSparky extends AnimatedSprite {
           loadingIndicatorColor: PhotoboothColors.red,
           sprites: const Sprites(
             asset: 'sparky_spritesheet.png',
-            size: Size(730, 588),
-            frames: 25,
-            stepTime: 2 / 25,
+            size: Size(250, 258),
+            frames: 29,
+            stepTime: 2 / 29,
           ),
         );
 }

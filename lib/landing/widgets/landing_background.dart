@@ -13,8 +13,8 @@ class LandingBackground extends StatelessWidget {
           begin: Alignment.topCenter,
           end: Alignment.bottomCenter,
           colors: [
-            PhotoboothColors.gray,
-            PhotoboothColors.white,
+            Color.fromARGB(255, 207, 207, 207),
+            Color.fromARGB(255, 4, 86, 210),
           ],
         ),
       ),

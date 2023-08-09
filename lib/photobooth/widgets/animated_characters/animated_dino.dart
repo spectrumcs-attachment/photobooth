@@ -7,9 +7,9 @@ class AnimatedDino extends AnimatedSprite {
           loadingIndicatorColor: PhotoboothColors.orange,
           sprites: const Sprites(
             asset: 'dino_spritesheet.png',
-            size: Size(648, 757),
-            frames: 25,
-            stepTime: 2 / 25,
+            size: Size(250, 258),
+            frames: 22,
+            stepTime: 2 / 22,
           ),
         );
 }

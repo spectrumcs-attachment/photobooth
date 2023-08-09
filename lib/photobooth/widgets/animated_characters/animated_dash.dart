@@ -7,9 +7,9 @@ class AnimatedDash extends AnimatedSprite {
           loadingIndicatorColor: PhotoboothColors.blue,
           sprites: const Sprites(
             asset: 'dash_spritesheet.png',
-            size: Size(650, 587),
-            frames: 25,
-            stepTime: 2 / 25,
+            size: Size(250, 258),
+            frames: 15,
+            stepTime: 2 / 15,
           ),
         );
 }

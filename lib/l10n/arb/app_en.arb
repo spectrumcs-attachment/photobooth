@@ -1,14 +1,14 @@
 {
     "@@locale": "en",
-    "landingPageHeading": "Welcome to the I\u2215O Photo Booth",
+    "landingPageHeading": "Welcome to the One Piece Photo Booth",
     "@landingPageHeading": {
         "description": "Heading shown on the landing page."
     },
-    "landingPageSubheading": "Take a photo and share it with the community!",
+    "landingPageSubheading": "Take a photo and share it with your friends and family!",
     "@landingPageSubheading": {
         "description": "Subheading shown on the landing page."
     },
-    "landingPageTakePhotoButtonText": "Get started",
+    "landingPageTakePhotoButtonText": "Take a Photo",
     "@landingPageTakePhotoButtonText": {
         "description": "Button text shown on the landing page which navigates to the photo booth."
     },

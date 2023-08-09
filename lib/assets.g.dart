@@ -6,23 +6,23 @@ import 'package:photobooth_ui/photobooth_ui.dart';
 class Assets {
   static const android = Asset(
     name: 'android',
-    path: 'assets/images/android.png',
-    size: Size(450, 658),
+    path: 'assets/images/nami.gif',
+    size: Size(530, 388),
   );
   static const dash = Asset(
     name: 'dash',
-    path: 'assets/images/dash.png',
-    size: Size(650, 587),
+    path: 'assets/images/sanji.gif',
+    size: Size(530, 388),
   );
   static const dino = Asset(
     name: 'dino',
-    path: 'assets/images/dino.png',
-    size: Size(648, 757),
+    path: 'assets/images/luffy.gif',
+    size: Size(530, 388),
   );
   static const sparky = Asset(
     name: 'sparky',
-    path: 'assets/images/sparky.png',
-    size: Size(730, 588),
+    path: 'assets/images/zoro.gif',
+    size: Size(530, 388),
   );
   static const googleProps = {
     Asset(
